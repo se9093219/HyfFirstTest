@@ -5,6 +5,6 @@
     <text class="userinfo-nickname">{{userInfo.nickName}}</text>
   </view>
   <view class="usermotto">
-    <text class="user-motto">大家好！我是胡亦凡，我是一个小胖子！这是我的第一个小程序，现在还很简单，但是会越来越好的，谢谢光临啊！</text>
+    <text class="user-motto">大家好！我是胡亦凡，这是我的第一个小程序，现在还很简单，但是会越来越好的，谢谢光临啊！</text>
   </view>
 </view>
